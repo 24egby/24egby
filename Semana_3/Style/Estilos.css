@@ -1,0 +1,33 @@
+
+body { 
+
+    background-image: url("/Images/fondo7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.responsive:hover {
+
+    transform: scale(1.2);
+    filter: grayscale(50%);
+
+}
+
+.Separacion{
+
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}
+
+.Estilo{
+
+    font-family: 'Tilt Prism', cursive;
+
+}
+
+
